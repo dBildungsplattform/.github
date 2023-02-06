@@ -22,7 +22,7 @@ Base links to copy
 
 <!--
 You may want to provide additional information:
-    - Refernces
+    - References
     - Rollout
     - Structure/Design
     - Repercussions
